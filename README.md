@@ -101,22 +101,11 @@ User submits a query
 
 ---
 
-## 🖼️ UI Screens
-
-- Chat Tab (Main Interface)
-- Job Listings Tab
-- Events Tracker Tab
-- Mentorship Hub Tab
-
-> Add screenshots in the `assets/` folder with filenames `chat-interface.png`, `job-tab.png`, `event-tab.png`
-
----
 
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/your-repo/asha-ai-bot.git
-cd asha-ai-bot
+git clone https://github.com/Aditi-Singh-15/Asha_Hackathon.git
 pip install -r requirements.txt
 ```
 
@@ -154,16 +143,6 @@ uvicorn main:app --reload
 ## 📹 Demo & Links
 
 - 📺 Demo Video: [https://drive.google.com/file/d/1ofZnJu2Xv36dk_RuAN2P3BCC6F06f3LS/view]
-
----
-
-## 📍 Roadmap
-
-- ✅ Hindi + English Text Support
-- ✅ Feedback Loop Integration
-- 🔜 Offline Kiosk Mode
-- 🔜 Voice Query Support
-- 🔜 NGO White-labeled Version
 
 ---
 
